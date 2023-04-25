@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+		width: 500px;
+		height: 500px;
+	position: relative;
+}
+p{
+	color: white;
+	position: absolute;
+	text-align: center;
+	top: 5px;
+	left: 10%;
+}
